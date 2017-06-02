@@ -4,6 +4,3 @@ Apellido
 
 edad
 Dni
-
-
-dnvdsmnbvjdnbvdwkj
